@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidListviewTestDemo</string>
+    <string name="setting_mydevice_forgot_device">Forget</string>
+    <string name="hs5_delete_users">Delete user</string>
+    <string name="hs5_delete_user">user No.</string>
+    <string name="hs5_delete_user_me">-me</string>
+</resources>
